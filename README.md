@@ -2,7 +2,8 @@
 N-Gram Language Model Visualization
 
 ## App
-https://github.com/Zubair2020/N_gram_app/blob/main/app_image.PNG
+![App]([path/to/confusion_matrix.png](https://github.com/Zubair2020/N_gram_app/blob/main/app_image.PNG))
+
 
 ## Demo Video
 
