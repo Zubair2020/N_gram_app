@@ -1,6 +1,10 @@
 # N_gram_app
 N-Gram Language Model Visualization
 
+## App
+![Confusion Matrix](app_image.PNG)
+
+
 ## Demo Video
 
 ![Watch the video](streamlit-n_gram_visualizer_with_tokens.webm)
